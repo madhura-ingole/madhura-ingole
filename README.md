@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhura</h1>
 <h3 align="center">A passionate web designer and developer from India!</h3>
-<h3 align="center">https://madhura-ingole.github.io/portfolio-website</h3>
+<h3 align="center">https://madhura-ingole.github.io/resume-website/</h3>
 <br/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/madhura-ingole](https://github.com/madhura-ingole)
